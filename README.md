@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Marquez Segovia</h1>
 <h3 align="center">A passionate software developer and data analyst from Mexico</h3>
 
-- 🌱 I’m currently learning **python, sql and html**
+- 🌱 I have experience working with **python, sql, php, html, javascript and css**
 
 - 📫 How to reach me **mariosegovia1205@gmail.com**
 
